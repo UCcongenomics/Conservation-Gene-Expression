@@ -5,5 +5,5 @@ Steve Cole:
 Read and download Charruau et al., 2016 and accompanying tables.
 Read the three papers with 'Cole' in the file name.
 
-Adam Friedman:
+Adam Freedman:
 Download the background reading from DenovoAssembly/background_reading
