@@ -2,8 +2,14 @@
 Guide to files and directories as of September 6, 2016
 
 Steve Cole:
-Read and download Charruau et al., 2016 and accompanying tables.
-Read the three papers with 'Cole' in the file name.
+Download Charruau et al., 2016 and accompanying tables.
+Download the three papers with 'Cole' in the file name.
 
 Adam Freedman:
 Download the background reading from DenovoAssembly/background_reading
+
+Jenny Tung and Amanda Lea: 
+Download  all files beginning with 'Tung_'
+
+Matteo Pellegrini:
+Download the powerpoint 'Pellegrini_Asilomar'
