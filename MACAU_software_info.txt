@@ -1,0 +1,5 @@
+You can find the software MACAU (for running a binomial mixed effects model) here:
+
+http://www.xzlab.org/software.html
+
+There are also example input files and a user manual under the the tab that says 'Mixed model Association for Count data via data AUgmentation (MACAU)'
